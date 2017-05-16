@@ -1,0 +1,50 @@
+---
+layout: page
+description: You found my personal website and bloggings of marginal quality. Enjoy.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      {% for post in paginator.posts %}
+      <div class="blog-main">
+        <div class="blog-post">
+          <a href="{{ post.url | prepend: site.baseurl}}">
+            <h2 class="blog-post-title">{{ post.title }}</h2></a>
+          <b><p class="blog-post-meta">{{ post.date | date: "%B %-d, %Y" }}</p></b>
+          <p class="truncate">{{ post.content | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ post.url }}">read more</a></p>
+        </div>
+        <hr>
+      </div>{% endfor %}
+    </div>
+
+    <div class="col-md-4">
+      <img src="/img/this-is-me.jpg" style="width:60%; height=60%"></img>
+      <div class="well">
+        <h2>About Me</h2>
+        <p>Hello, my name is Stuart Brady and I’m a fully certified middle school and high school teacher from the UK, currently teaching English language arts and social studies in Tokyo. Outside of work, I enjoy relaxing with my family, competitive long-distance
+          running and front-end web development (which was one of the reasons I built this site). If you want to get in touch, don’t hesitate to <a href="mailto:stubrady78@gmail.com">email</a> me or hit me up on <a href="https:www.twitter.com/stubrady78">Twitter</a>.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      {% if paginator.total_pages > 1 %}
+      <ul class="pager">
+        {% if paginator.previous_page %}
+        <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Newer Posts</a>
+        </li>
+        {% endif %} {% if paginator.next_page %}
+        <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts</a>
+        </li>
+        {% endif %}
+      </ul>
+      {% endif %}
+    </div>
+  </div>
+</div>

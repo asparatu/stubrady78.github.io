@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="jumbotron">
+  <div class="container-fluid">
+    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}<h1>
+          <p>{{ page.description }}</p>
+      </div>
+    </div>
+
+    {{ content }}
