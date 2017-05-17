@@ -12,6 +12,8 @@
  background: linear-gradient(to right, #008060, #00806b);
  text-align: center;
  box-shadow: 10px 10px 5px #888888;
+ padding-left: 15px;
+ padding-right: 15px;
 }
 
 footer {
