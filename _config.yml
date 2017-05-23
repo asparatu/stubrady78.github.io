@@ -22,6 +22,9 @@ url: "http://stubrady78.github.io"
 twitter_username: stubrady78
 github_username:  stubrady78
 
+# Google Analytics
+google_tracking_id: UA-96250744-1
+
 # Build settings
 markdown: kramdown
 theme: minima
