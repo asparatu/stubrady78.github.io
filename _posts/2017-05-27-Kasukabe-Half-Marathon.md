@@ -23,6 +23,9 @@ holidays. I'm looking forward to it as it's near where I grew up and it will be 
 cool having my mum and my dad and my gran me cheering on. After that, I'm going to start training for 
 the Saitama International Marathon in November, which, right now, is a scary thought indeed!
 
+![With my daughter at the finish]({{ stubrady78.github.io }}/img/kasukabe-half-marathon.png)
+<span class="caption text-muted">With my daughter at the finish</span>
+
 Thanks for reading:)
 
  
