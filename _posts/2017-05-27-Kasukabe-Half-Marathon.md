@@ -20,7 +20,7 @@ got lucky and didn't have to wait.
 
 Looking ahead, my next race will be a half in Cornwall, England, over the summer 
 holidays. I'm looking forward to it as it's near where I grew up and it will be pretty 
-cool having my mum and my dad and my gran me cheering on. After that, I'm going to start training for 
+cool having my mum and my dad and my gran cheering me on. After that, I'm going to start training for 
 the Saitama International Marathon in November, which, right now, is a scary thought indeed!
 
 ![With my daughter at the finish]({{ stubrady78.github.io }}/img/kasukabe-half-marathon.png)
