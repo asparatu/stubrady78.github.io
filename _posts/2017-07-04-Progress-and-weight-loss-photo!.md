@@ -36,5 +36,5 @@ now is unleash the (highly embarrassing) photographic evidence.
 ![Fat lad]({{ stubrady78.github.io }}/img/Screenshot from 2017-07-04 18-16-57.png)
 <span class="caption text-muted">Pro fat lad</span>
 
-Thanks for reading. Oh, running is ace! (I pinched that very true sentiment from 
+Thanks for reading. Oh, running is ace! (I pinched that very true sentiment 
 from someone on Strava - thanks.)
