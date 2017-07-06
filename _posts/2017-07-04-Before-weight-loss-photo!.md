@@ -1,6 +1,6 @@
 ---
 layout: post
-description: I'm definitely making some progress
+description: I'm definitely getting better
 ---
 
 It's been a while since my last post. TBH I've been a little lazy as tough to 
@@ -26,9 +26,9 @@ runs check all the different boxes - plenty of ez, tempo stuff, some speed work,
 run, etc. I've also improved my 5k specific pacing aswell, which means I'm now racing 
 a little smarter over the distance.
 
-However, the biggest factor (and partly a function of the training) has been my weight loss. 
-Only the other day I was watching a video of me at my daughter's sports day and the 
-change is pretty startling. I'm down to around 75 kilos, so I've probably lost a 
+However, the biggest factor has been my weight loss. 
+Only the other day I was watching a video of me at my daughter's sports day last October and the 
+change is fairly startling. I'm weigh around 75 kilos now, so I've probably lost a 
 good 20 kilos through diet and exercise! Obviously, I'm chufffed and I owe a 
 lot of that success to the power of running. I guess the only thing to do 
 now is unleash the (highly embarrassing) photographic evidence. 
