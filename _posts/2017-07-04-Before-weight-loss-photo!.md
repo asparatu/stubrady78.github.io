@@ -3,8 +3,8 @@ layout: post
 description: I'm definitely getting better
 ---
 
-It's been a while since my last post. TBH I've been a little lazy as tough to 
-sit down and write something now that I'm "done" building my website. 
+It's been a while since my last post. I've been a little busy with the last month of school 
+before the summer holidays but mostly I've been lazy.
 
 So what's been going on then? Well, it seems my running has come on pretty well in the last 
 10 months and I have evidence to prove it:) While I was time traveling through the 
