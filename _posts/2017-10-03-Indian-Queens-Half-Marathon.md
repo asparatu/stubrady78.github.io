@@ -3,10 +3,9 @@ layout: post
 description: Running first race in Cornwall and getting injured
 ---
 
-Again, I haven't updated this site in ages as I've been busy 
-learning Javascript, particularly how to make retro games using Phaser. 
-All good but I do get the odd twinge that I dumped my website. Anyway, I'm here 
-to see if she’ll take me back.
+Yet again I haven't updated this site in ages as I've been busy trying to 
+learn Javascript. All good but I do get the odd twinge that I dumped my website. 
+Anyway, I'm here to see if she’ll take me back.
 
 In the summer, I went back to the UK to visit family in Cornwall. One of my goals 
 for when I was back was to run a race and I'm happy to report that I completed the 
